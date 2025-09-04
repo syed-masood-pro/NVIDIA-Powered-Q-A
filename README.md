@@ -44,8 +44,8 @@ pip install -r requirements.txt
 
 **1. Clone the Repository**
 ```
-git clone https://github.com/syed-masood-pro/QuantumRead.git
-cd QuantumRead
+git clone https://github.com/syed-masood-pro/NVIDIA_Powered-Q-A.git
+cd NVIDIA_Powered-Q-A
 ```
 **2. Set Up Your Environment**
 
