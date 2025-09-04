@@ -5,8 +5,8 @@ This project is a powerful, document-centric Q&A application built with Streamli
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?logo=streamlit)
-![LLM](https://img.shields.io/badge/LLM-Groq%20%7C%20LangChain%20%7C%20Gemma_2-blueviolet)
-![Language](https://img.shields.io/badge/Language-Python_3.11-yellow?logo=python)  
+![LLM](https://img.shields.io/badge/LLM-NVIDIA_NIM%20%7C%20LangChain%20%7C%20Llama_3.1-blueviolet?logo=nvidia&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Python_3.11-yellow?logo=python)
 
 ## 📝 Table of Contents
 - [📌 About the Project](#-about-the-project)
